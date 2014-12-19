@@ -1,0 +1,12 @@
+{
+  "name": "DevOps & Continuous Delivery",
+  "description": "",
+  "author": "Christian Trabold",
+  "pause_msg": "Paused",
+  "sections": [
+    {"section":"intro"},
+    {"section":"definition"},
+    {"section":"transition"},
+    {"section":"thank_you"}
+  ]
+}
